@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ankit,  a 3rd year CSE student passionate about Web Development 🚀, Data Structures & Algorithms 🧠, and AI 🤖.</div>  
+### <div align="center">I'm Ankit,  a 3rd year CSE student🤖.</div>  
   
 
 - 🔭 Currently honing my skills in Java, and MERN stack development.  
@@ -13,9 +13,7 @@
   
 
 - 🦊Eager to contribute to innovative projects and expand my technical expertise.   
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
