@@ -87,12 +87,7 @@
 </div>
 
 ---
-<!--
-## 🏆 GitHub Trophies
-<!-- Achievement Badges: Shows GitHub achievements like first PR, multiple repos, followers, etc. (PR-related trophies hidden) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitkatole&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
-</div> -->
+
 
 ---
 
@@ -126,19 +121,7 @@
 </div>
 
 ---
-<!-- ## 🎯 Featured Projects
 
-<!-- Pinned Repository Cards: Shows specific repositories with stats like stars, forks, and primary language -->
-<div align="center">
-  <a href="https://github.com/ankitkatole/DevAuction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkatole&repo=DevAuction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/ankitkatole/Dynamos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitkatole&repo=Dynamos&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-  </a>
-</div>
-
---- -->
 
 ## 🌐 Connect With Me
 
