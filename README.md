@@ -7,8 +7,7 @@
 <!-- Displays animated typing effect with rotating text lines -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Solutions;MERN+Stack+Developer" alt="Typing Animation" />
 
-[![An image of @ankitkatole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitkatole)](https://holopin.io/@ankitkatole)
-<!-- Tech Arsenal -->
+[![An image of @ankitkatole's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitkatole)](https://holopin.io/@ankitkatole)<!-- Tech Arsenal -->
 ## ⚡ Tech Arsenal
 
 <div align="center">
