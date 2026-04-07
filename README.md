@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <!-- === HERO BANNER === -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Ankit%20Katole&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&desc=Full‑Stack%20Developer%20|%20Java%20%2B%20MERN&descSize=20&descAlignY=60" />
 
