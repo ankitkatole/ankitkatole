@@ -1,125 +1,126 @@
 <div align="center">
 
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Ankit%20Katole&fontSize=58&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=20&descAlignY=60" width="100%" />
 
-<!-- === HERO BANNER === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Ankit%20Katole&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&desc=Full‑Stack%20Developer%20|%20Java%20%2B%20MERN&descSize=20&descAlignY=60" />
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/ankitkatole">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00F5A0&center=true&vCenter=true&width=700&height=50&lines=Software+Engineer+%40+Capgemini;Spring+Boot+%7C+Microservices+%7C+REST+APIs;JWT+%7C+Spring+Security+%7C+Spring+Data+JPA;Spring+AI+%7C+Gemini+API+%7C+Camunda+BPM;Building+clean+%26+scalable+backend+systems" alt="Typing SVG" />
+</a>
 
-<!-- === NEW HERO GIF YOU PROVIDED === -->
-<img src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?raw=1" width="350" />
+<br/>
 
-<!-- === DEVELOPER AVATAR === -->
-<img src="https://i.ibb.co/BBV0bJ6/developer-avatar-tech.gif" width="260"/>
-
-<!-- === TYPING ANIMATION === -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=600&color=00F5A0&lines=Full-Stack+Developer;Spring+Boot+%7C+Node.js+%7C+React;Building+Clean+%26+Scalable+Systems;Tech+Enthusiast+%7C+Open+Source+Learner" />
+<a href="https://ankit-katole-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ankit--katole--portfolio.vercel.app-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F2027" alt="portfolio" /></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=ankitkatole&label=Profile+Views&color=00e5ff&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/Bangalore-India-0F2027?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" alt="location" />
+<img src="https://img.shields.io/badge/Open_to-Backend_Roles-00F5A0?style=for-the-badge&labelColor=0F2027" alt="open to" />
 
 </div>
+
+---
+
+## `> whoami`
+
+```java
+public class AnkitKatole {
+
+    String role      = "Software Engineer @ Capgemini";
+    String base      = "Bangalore, India";
+    String focus     = "Backend engineering with Java & Spring Boot";
+
+    String[] backend = { "Spring Boot", "Spring Security + JWT", "Spring Data JPA",
+                         "Spring Cloud", "Microservices", "Camunda BPM" };
+    String[] aiLayer = { "Spring AI", "Gemini API", "OpenAI API", "Prompt Engineering" };
+
+    String building  = "CodeCollab, SubPulse";
+    String exploring = "Kafka, Docker, AWS, CI/CD";
+
+    boolean openToWork() { return true; }   // backend / AI-enabled backend roles
+}
+```
 
 ---
 
 ## ⚡ Tech Stack
 
-### 💻 **Languages**
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<div align="center">
+
+**Backend & Architecture**
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb,docker&theme=dark" alt="backend" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="frontend" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,idea&theme=dark" alt="tools" />
+
+</div>
+
+<details>
+<summary><b>More of what I work with</b></summary>
+<br/>
+
+- **Spring ecosystem:** Spring MVC, Spring Data JPA, Spring Security, Spring Cloud (Eureka, API Gateway, OpenFeign), Spring AI
+- **APIs & architecture:** RESTful APIs, microservices, JWT authentication, WebSockets (STOMP), workflow automation with Camunda BPM
+- **AI integration:** Gemini API, OpenAI API, prompt engineering
+- **Dev workflow:** Maven, Swagger, Spring Boot Actuator, GitHub Copilot, Cursor
+
+</details>
 
 ---
 
-### 🚀 **Frontend**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **CodeCollab** | Real-time collaborative coding platform with AI code reviews and a sandboxed multi-language code runner | Spring Boot, Spring Cloud, WebSockets, Spring AI, React, Docker |
+| **SubPulse** | Microservices subscription manager with JWT-secured APIs, renewal email reminders and Gemini-powered assistance | Spring Boot, Eureka, API Gateway, MySQL, React |
+| **Key-N-Share** | Decentralized, anti-piracy dataset marketplace with encrypted storage and on-chain ownership proof | Node.js, Solana, IPFS, Next.js |
+
+> Full list of repositories: [github.com/ankitkatole?tab=repositories](https://github.com/ankitkatole?tab=repositories)
 
 ---
 
-### ⚙️ **Backend**
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-
----
-
-### 🗄️ **Databases**
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
-
----
-
-### 🛠️ **Tools**
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-
----
-
-## 💼 Professional Experience
-
-### ✅ **Capgemini, Bangalore** — *Software Engineer Intern*  
-📅 **Feb 2026 – Apr 2026**  
-- Trained in **Spring Boot**, **Spring Data JPA**, and **WebMethods** for enterprise system development.  
-- Built backend modules following Java‑Spring industry standards.
-
----
-
-### ✅ **MagnifyX, London (Remote)** — *Full‑Stack Developer Intern*  
-📅 **Dec 2024 – Apr 2025**  
-- Built 3+ responsive admin dashboards.  
-- Optimized workflows, reducing execution time by 40%.  
-- Improved SEO and cross-browser performance.
-
----
-
-### ✅ **RentOut Homes (Remote)** — *Backend Developer Intern*  
-📅 **Sep 2024 – Oct 2024**  
-- Enhanced MongoDB query performance by 35%.  
-- Developed RBAC for multiple user roles.  
-- Documented 20+ REST APIs.
-
----
-
-### ✅ **CAT-India (NIELIT)** — *AI & Python Instructor*  
-📅 **May 2024 – Jun 2024**  
-- Taught AI & Python fundamentals to 40+ students.  
-- Conducted hands-on coding workshops.
-
----
-
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkatole&layout=compact&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkatole&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkatole&theme=react-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitkatole&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkatole&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ankitkatole&theme=tokyonight&hide_border=true" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkatole&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankitkatole&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ankitkatole">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://ankit-katole-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/ankitkatole"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/ankitkatole"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+<a href="mailto:katoleankit06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<a href="https://leetcode.com/u/ankitkatole">
-<img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
-</a>
+<br/><br/>
 
-<a href="https://github.com/ankitkatole">
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Always+shipping.+Always+learning.;Open+to+backend+%26+AI-enabled+backend+roles." alt="footer typing" />
 
 </div>
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer" width="100%" />
