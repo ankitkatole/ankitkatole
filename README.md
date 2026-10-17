@@ -102,7 +102,7 @@ public class AnkitKatole {
 
 <br/>
 
-<!--
+
 SNAKE ANIMATION: uncomment after the "Generate Snake" workflow has run once
 (Actions tab -> Generate Snake -> Run workflow).
 
@@ -111,8 +111,6 @@ SNAKE ANIMATION: uncomment after the "Generate Snake" workflow has run once
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitkatole/ankitkatole/output/github-snake.svg" />
   <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/ankitkatole/ankitkatole/output/github-snake.svg" />
 </picture>
--->
-
 
 </div>
 
