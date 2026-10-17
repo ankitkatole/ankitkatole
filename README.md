@@ -102,10 +102,6 @@ public class AnkitKatole {
 
 <br/>
 
-
-SNAKE ANIMATION: uncomment after the "Generate Snake" workflow has run once
-(Actions tab -> Generate Snake -> Run workflow).
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitkatole/ankitkatole/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitkatole/ankitkatole/output/github-snake.svg" />
