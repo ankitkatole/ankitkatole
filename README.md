@@ -12,7 +12,7 @@
 
 <a href="https://ankit-katole-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ankit--katole--portfolio.vercel.app-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F2027" alt="portfolio" /></a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ankitkatole&label=Profile+Views&color=00e5ff&style=for-the-badge" alt="profile views" />
+<img src="https://hits.sh/github.com/ankitkatole.svg?style=for-the-badge&label=Profile%20Views&color=00E5FF&labelColor=0F2027" alt="profile views" />
 <img src="https://img.shields.io/badge/Bangalore-India-0F2027?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" alt="location" />
 <img src="https://img.shields.io/badge/Open_to-Backend_Roles-00F5A0?style=for-the-badge&labelColor=0F2027" alt="open to" />
 
@@ -98,11 +98,21 @@ public class AnkitKatole {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkatole&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/00F5A0/ankitkatole" alt="contribution chart" width="90%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankitkatole&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+<!--
+SNAKE ANIMATION: uncomment after the "Generate Snake" workflow has run once
+(Actions tab -> Generate Snake -> Run workflow).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitkatole/ankitkatole/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitkatole/ankitkatole/output/github-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/ankitkatole/ankitkatole/output/github-snake.svg" />
+</picture>
+-->
+
 
 </div>
 
